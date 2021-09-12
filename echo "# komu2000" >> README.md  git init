@@ -1,0 +1,2 @@
+echo "# komu2000" >> README.md 
+git init 
